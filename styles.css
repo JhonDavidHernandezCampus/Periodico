@@ -1,0 +1,150 @@
+@import url(//db.onlinewebfonts.com/c/759573e11a5e10f3e75b30c7a37d02a3?family=Old+London);
+
+body{
+    margin: 0% 22%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.container{
+    position: absolute;  
+    background-image: url(img/fonPeriodico.jpg);
+    background-position: center center;
+    width: 40%;
+    height: 200%;
+    margin: -1% 2%;
+    
+}
+header div h1{
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+
+}
+.h1{
+    position: relative;
+    width: 45%;
+    top: 5%;
+    right: 50%;
+    left: 55%;
+
+
+}
+.parrafo1{
+    margin-left: 4%;
+    position: absolute;
+    width: 50%;
+    height:  350px;
+
+}
+
+div img{
+    position: relative;
+    left: 55%;
+    bottom: 0%;
+    height: 45%;
+    width: 45%;
+}
+
+.parrafo3{
+    position: absolute;
+    width:50%;
+    height: 0%;
+    margin-top: 50px;
+    margin-left: ;
+    border: 2px;
+    top: 35%;
+
+    /* outline: 2px solid blue; */
+    
+}
+
+.parrafo4{
+    margin-left: 4%;
+
+    position: relative;
+    left: 53%;
+    top: 12%;
+    border-left: solid 2px black;
+    height: 30%;
+
+}
+
+.parrafo5{
+    
+}
+
+
+
+/* div{
+    background-color: red;
+    display: inline;
+    padding: 70px ;
+    outline: 5px solid blue;   
+    border:5px solid orange;
+    margin: 15px;
+    width: 50px !important;
+    height: 50px;
+    z-index: 100px;
+} */
+
+/* .box1 , .box2, .box3{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+
+}
+
+.box1{
+    background-color: red;
+    top: 0px;
+    left: 0px;
+}
+.box2{
+    position:absolute;
+    background-color: blue;
+    
+    top: 10px;
+    left: 10px;
+}
+
+.box3{
+    position: relative;
+    background-color: orange;
+    top: 20px;
+    left: 20px;
+} */
+/* .container{
+    background-color: violet;
+    position: relative;     
+}
+
+.box1 , .box2, .box3{
+    width: 150px;
+    height: 150px;
+
+}
+
+.box1{
+    background-color: red;
+    top: 0px;
+    left: 0px;
+}
+.box2{
+    position: absolute;
+    background-color: blue;
+    top: 5;
+    right: 10%;
+    left: 10%;
+    bottom: 25%;
+    margin: auto;
+}
+
+
+.box3{
+    background-color: orange;
+    top: 20px;
+    left: 20px;
+} */
